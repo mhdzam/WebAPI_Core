@@ -1,0 +1,8 @@
+C:\Users\intel\source\repos\BackendServices\DB\bin\Debug\netcoreapp3.1\DB.deps.json
+C:\Users\intel\source\repos\BackendServices\DB\bin\Debug\netcoreapp3.1\DB.dll
+C:\Users\intel\source\repos\BackendServices\DB\bin\Debug\netcoreapp3.1\DB.pdb
+C:\Users\intel\source\repos\BackendServices\DB\obj\Debug\netcoreapp3.1\DB.AssemblyInfoInputs.cache
+C:\Users\intel\source\repos\BackendServices\DB\obj\Debug\netcoreapp3.1\DB.AssemblyInfo.cs
+C:\Users\intel\source\repos\BackendServices\DB\obj\Debug\netcoreapp3.1\DB.csproj.CoreCompileInputs.cache
+C:\Users\intel\source\repos\BackendServices\DB\obj\Debug\netcoreapp3.1\DB.dll
+C:\Users\intel\source\repos\BackendServices\DB\obj\Debug\netcoreapp3.1\DB.pdb
